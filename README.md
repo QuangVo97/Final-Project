@@ -58,6 +58,10 @@ The Student Mental Health Survey dataset contains detailed information on the me
 - What is the relationship between categorical factors and depression/anxiety?
 - How does academic pressure and financial_concerns affect anxiety and depression?
 ## 4. Hypothetical Scenario (in Vietnamese)
+- Context
+- Hypothesis
+- Simulation
+- Comparison of Depression and Anxiety Before and After Intervention
 ## 5. Conclusion and Recommendation (in Vietnamese)
 - Conclusion
 - Recommendation
