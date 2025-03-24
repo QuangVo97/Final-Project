@@ -33,7 +33,7 @@ The Student Mental Health Survey dataset contains detailed information on the me
 - **Stress Relief Activities**: Lastly, the dataset explores the activities students engage in to manage stress.
   >> Column: | stress_relief_activities |
 
-## 0. Using tools and platform
+## Using tools and platform
 ### Tools: Python
 - Model:
     - Ordinal Model-Ordinal Logistic Regression: It is a regression model designed to predict the probability that an observation falls into a specific level of an ordinal dependent variable, based on independent variables.
@@ -41,11 +41,12 @@ The Student Mental Health Survey dataset contains detailed information on the me
     - Mann-Whitney U test: It is a non-parametric statistical method used to compare the differences between two independent groups
     - Chart (pỉe chart, Box Plot, Bar Plot, ..)
 - Platform: Colab
-## 1. Data processing (in English)
+## Data Analysis
+### 1. Data processing (in English)
 - 1.1 Import liberies
 - 1.2 Where is data come from and what are they contained?
 - 1.3 What do we have for data overview?
-## 2. Exploratory Data Analysis - EDA (in English)
+### 2. Exploratory Data Analysis - EDA (in English)
 - 2.1 Demographics: Who are the students in this study?
 - 2.2 Academic Profile: What do they study, how do they study, and how do they feel about studying?
 - 2.3 Mental Health: What mental challenges are affecting them?
@@ -54,14 +55,17 @@ The Student Mental Health Survey dataset contains detailed information on the me
     - Are there differences between male and female students when it comes to facing anxiety?
     - Does academic pressure impact depression?
     - The relationship between stressors and mental health
-## 3. Focusing on these key stressors to gain a comprehensive understanding of the factors affecting university students' mental health (in Vietnamese)
+### 3. Focusing on these key stressors to gain a comprehensive understanding of the factors affecting university students' mental health (in Vietnamese)
 - What is the relationship between categorical factors and depression/anxiety?
 - How does academic pressure and financial_concerns affect anxiety and depression?
-## 4. Hypothetical Scenario (in Vietnamese)
+### 4. Hypothetical Scenario (in Vietnamese)
 - Context
 - Hypothesis
 - Simulation
 - Comparison of Depression and Anxiety Before and After Intervention
-## 5. Conclusion and Recommendation (in Vietnamese)
+### 5. Conclusion and Recommendation (in Vietnamese)
 - Conclusion
 - Recommendation
+## Apendix
+Backup folder: https://drive.google.com/drive/folders/1HqySnMBGBgTtc9-qApXQvxKp7IOBOaWg?usp=share_link
+
